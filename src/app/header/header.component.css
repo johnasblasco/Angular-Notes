@@ -1,0 +1,12 @@
+header{
+      background-color: blue;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      width: 100vw;
+      
+}
+h1{
+      font-size: larger;
+      text-align: center;
+}
